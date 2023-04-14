@@ -1,4 +1,4 @@
-# chat-connect
+# ChatConnect - A Real-Time Chat and Communication App
 
 Team leader - https://g.dev/Nagarjun200211
 Team member 1- https://g.dev/Sibiraj01
